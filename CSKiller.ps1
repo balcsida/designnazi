@@ -97,7 +97,7 @@ namespace WinAPI
 	}
 }
 
-
+Remove-Font comic.ttf
 
 # call like this:
 # Remove-Font adler_,ttf
