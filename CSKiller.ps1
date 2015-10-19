@@ -1,5 +1,3 @@
-﻿
-
 function Remove-Font {
     # created by Dr. Tobias Weltner, MVP PowerShell
     # please keep this notice
@@ -98,6 +96,9 @@ namespace WinAPI
 }
 
 Remove-Font comic.ttf
+Remove-Font comicbd.ttf
+Remove-Font comicz.ttf
+Remove-Font comici.ttf
 
 # call like this:
 # Remove-Font adler_,ttf
